@@ -1,1 +1,5 @@
+#editor
 *.code-workspace
+
+#extras
+node_modules
