@@ -2,7 +2,7 @@
 
 let CONFIG = {};
 
-CONFIG.PORT = 888;
+CONFIG.PORT = process.env.PORT || 888;
 
 CONFIG.SEGMENTO = './views/segmentos';
 CONFIG.PUBLIC = './public/';
