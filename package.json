@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/pachecoSen/Curso_Node_Seccion_7#readme",
   "dependencies": {
-    "express": "^4.17.0",
+    "express": "^4.17.3",
     "hbs": "^4.0.4",
     "terminal-kit": "^1.28.0"
   },
