@@ -21,7 +21,7 @@
   "dependencies": {
     "express": "^4.17.0",
     "hbs": "^4.0.4",
-    "terminal-kit": "^1.28.0"
+    "terminal-kit": "^1.49.4"
   },
   "devDependencies": {
     "eslint": "^5.16.0"
